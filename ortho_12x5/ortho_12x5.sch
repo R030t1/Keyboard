@@ -195,8 +195,6 @@ F 3 "~" H 5400 1700 50  0001 C CNN
 	1    5400 1700
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	5500 1450 5500 1500
 $Comp
 L Switch:SW_SPST SW41
 U 1 1 60250A96
@@ -516,8 +514,6 @@ F 3 "~" H 5400 2250 50  0001 C CNN
 	1    5400 2250
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	5500 2000 5500 2050
 $Comp
 L Switch:SW_SPST SW42
 U 1 1 602A2939
@@ -887,8 +883,6 @@ F 3 "~" H 5400 2800 50  0001 C CNN
 	1    5400 2800
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	5500 2550 5500 2600
 $Comp
 L Switch:SW_SPST SW43
 U 1 1 603161AB
@@ -1208,8 +1202,6 @@ F 3 "~" H 5400 3350 50  0001 C CNN
 	1    5400 3350
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	5500 3100 5500 3150
 $Comp
 L Switch:SW_SPST SW44
 U 1 1 60321EE6
@@ -1529,8 +1521,6 @@ F 3 "~" H 5400 3900 50  0001 C CNN
 	1    5400 3900
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	5500 3650 5500 3700
 $Comp
 L Switch:SW_SPST SW45
 U 1 1 6032C60D
@@ -1998,4 +1988,14 @@ Wire Wire Line
 	3050 5300 7450 5300
 Wire Wire Line
 	7450 4050 7450 5300
+Wire Wire Line
+	5500 1450 5500 1550
+Wire Wire Line
+	5500 3100 5500 3200
+Wire Wire Line
+	5500 3650 5500 3750
+Wire Wire Line
+	5500 2550 5500 2650
+Wire Wire Line
+	5500 2000 5500 2100
 $EndSCHEMATC
